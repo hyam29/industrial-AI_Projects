@@ -1,0 +1,9 @@
+# data.yaml
+
+train: C:/Users/User/Desktop/capstone/finalProject/dataset/images/train
+val: C:/Users/User/Desktop/capstone/finalProject/dataset/images/val
+
+nc: 7  # 클래스 개수 (예제에서 Boat, Vessel/ship, Ferry, Kayak, Buoy, Sail boat, Other)
+names: ['Boat', 'Vessel/ship', 'Ferry', 'Kayak', 'Buoy', 'Sail boat', 'Other']
+
+

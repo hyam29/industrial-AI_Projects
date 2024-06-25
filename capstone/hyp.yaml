@@ -1,0 +1,23 @@
+# Hyperparameters
+lr0: 0.01
+lrf: 0.01
+momentum: 0.937
+weight_decay: 0.0005
+warmup_epochs: 3.0
+warmup_momentum: 0.8
+warmup_bias_lr: 0.1
+box: 0.05
+cls: 0.5
+hsv_h: 0.015 # 색상 변화
+hsv_s: 0.7 # 색상 변화
+hsv_v: 0.4 # 색상 변화
+degrees: 10.0 # 회전 (추가)
+translate: 0.1 # 평행 이동
+scale: 0.5 # 스케일링
+shear: 0.0 # 전단 변형
+perspective: 0.0 # 원근법 변환
+flipud: 0.0 # 수직 반전
+fliplr: 0.5 # 수평 반전
+mosaic: 1.0 # 모자이크 데이터 증강
+mixup: 0.1  # 낮은 확률로 mixup (추가)
+copy_paste: 0.5  # Copy-paste 증강 (추가)
