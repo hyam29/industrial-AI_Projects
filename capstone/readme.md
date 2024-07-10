@@ -18,5 +18,7 @@ Object Detection and Classification Based on YOLO-V5 with Improved Maritime Data
 ![image](https://github.com/hyam29/Projects/assets/112690912/670ae9fb-b5df-44d6-82ab-dae923bbdfdd)
 
 ## 검출결과
+![image](https://github.com/hyam29/industrial-AI_Projects/assets/112690912/6f26b2d8-75ac-4433-88c3-c78ac4240727)
+![image](https://github.com/hyam29/industrial-AI_Projects/assets/112690912/3a8fc46d-bb56-47c7-9d04-0572d8194126)
 ![result](https://github.com/hyam29/Projects/assets/112690912/82d577ab-c29d-4e54-996f-77fb1cf052a6)
 
