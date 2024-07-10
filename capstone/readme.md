@@ -1,4 +1,5 @@
-# 중간 프로젝트 (CNN을 이용한 반도체 불량 분류)
+# CNN 중간 프로젝트 (CNN을 이용한 반도체 불량 분류)
+A Deep Convolutional Neural Network for Wafer Defect Identification on an Imbalanced Dataset in Semiconductor Manufacturing Processes 논문 구현
 ---
 
 ## 데이터셋
@@ -11,7 +12,8 @@
 
 ---
 
-# 기말 프로젝트 (YOLOv8 이용한 해상 객체 검출)
+# YOLOv8 기말 프로젝트 (YOLOv8 이용한 해상 객체 검출)
+Object Detection and Classification Based on YOLO-V5 with Improved Maritime Dataset 논문을 YOLO-V8로 구현
 ---
 
 ## 데이터셋
