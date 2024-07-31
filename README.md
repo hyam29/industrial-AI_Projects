@@ -9,8 +9,12 @@
 2. YOLOv8을 이용한 해상 객체 검출
 
 ### 딥러닝 실제
-1. 
+1. deepLearning/assignment/perceptron_addr.py
+   (전·반) 가산기 구현
+2. deepLearning/assignment/twoLayerNet.py
+   hidden_size와 learning_rate 개념과 그래프 출력
 
+   
 ## 2023.09 ~ 2023. 12
 
 ### 어프렌티스 프로젝트
